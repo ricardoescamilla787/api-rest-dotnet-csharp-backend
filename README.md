@@ -1,7 +1,7 @@
 ﻿# Relación entre proyectos
 
-- Backend API: https://github.com/ricardoescamilla787/api-rest-dotnet-csharp-frontend
-- Frontend Web: https://github.com/ricardoescamilla787/api-rest-dotnet-csharp-backend
+- Backend API: https://github.com/ricardoescamilla787/api-rest-dotnet-csharp-backend
+- Frontend Web: https://github.com/ricardoescamilla787/api-rest-dotnet-csharp-frontend
 
 # API REST – Sistema de Censo, Gestión de Usuarios y Control de Acceso (ASP.NET C#)
 
