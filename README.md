@@ -30,6 +30,7 @@ Este proyecto forma parte de un sistema cliente-servidor donde el backend es con
 
 El proyecto sigue una estructura basada en **controladores, modelos y configuración centralizada**:
 
+```text
 apiRESTCenso/
 │
 ├── App_Start/
@@ -55,7 +56,7 @@ apiRESTCenso/
 ├── Web.config
 ├── Global.asax
 └── README.md
-
+```
 ---
 
 ## Configuración de rutas
