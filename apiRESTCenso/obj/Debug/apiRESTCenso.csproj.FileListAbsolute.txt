@@ -1,0 +1,205 @@
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\apiRESTCenso.dll.config
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\apiRESTCenso.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\apiRESTCenso.pdb
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\csc.exe
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\csc.exe.config
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\csc.rsp
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\csi.exe
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\csi.exe.config
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\csi.rsp
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.AppContext.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Console.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.IO.Compression.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Net.Http.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Net.Sockets.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.ValueTuple.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Xml.XPath.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\vbc.exe
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\vbc.exe.config
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\vbc.rsp
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\VBCSCompiler.exe
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\Antlr3.Runtime.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\Newtonsoft.Json.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Net.Http.Formatting.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Helpers.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Http.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Http.WebHost.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Mvc.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Optimization.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Razor.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.Deployment.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.Razor.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\WebGrease.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\Newtonsoft.Json.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Net.Http.Formatting.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Helpers.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Http.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Http.WebHost.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Mvc.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Optimization.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.Razor.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.Deployment.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.Razor.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\Antlr3.Runtime.pdb
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Helpers.resources.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Http.resources.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Mvc.resources.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Optimization.resources.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Razor.resources.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\es\System.Web.WebPages.resources.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\obj\Debug\apiRESTCenso.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\obj\Debug\apiRESTCenso.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\obj\Debug\apiRESTC.5CB3183E.Up2Date
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\obj\Debug\apiRESTCenso.dll
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\obj\Debug\apiRESTCenso.pdb
+C:\Users\diego\source\repos\apiRESTCenso\apiRESTCenso\bin\MySql.Data.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\apiRESTCenso.dll.config
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\apiRESTCenso.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\apiRESTCenso.pdb
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\csc.exe
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\csc.exe.config
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\csc.rsp
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\csi.exe
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\csi.exe.config
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\csi.rsp
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.AppContext.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Collections.Immutable.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Console.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Globalization.Calendars.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.IO.Compression.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.IO.FileSystem.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Net.Http.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Net.Sockets.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Reflection.Metadata.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.ValueTuple.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Xml.XPath.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\vbc.exe
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\vbc.exe.config
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\vbc.rsp
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\VBCSCompiler.exe
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\roslyn\VBCSCompiler.exe.config
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Antlr3.Runtime.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Microsoft.Web.Infrastructure.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\MySql.Data.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Newtonsoft.Json.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Net.Http.Formatting.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Helpers.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Http.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Http.WebHost.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Mvc.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Optimization.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Razor.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.Deployment.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.Razor.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\WebGrease.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Google.Protobuf.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Zstandard.Net.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\K4os.Compression.LZ4.Streams.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\BouncyCastle.Crypto.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Ubiety.Dns.Core.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Renci.SshNet.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Buffers.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\K4os.Compression.LZ4.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\K4os.Hash.xxHash.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Memory.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Numerics.Vectors.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\MySql.Data.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Newtonsoft.Json.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Net.Http.Formatting.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Helpers.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Http.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Http.WebHost.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Mvc.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Optimization.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.Razor.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.Deployment.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\System.Web.WebPages.Razor.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Antlr3.Runtime.pdb
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\es\System.Net.Http.Formatting.resources.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Helpers.resources.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Http.resources.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Http.WebHost.resources.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Mvc.resources.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Optimization.resources.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\es\System.Web.Razor.resources.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\es\System.Web.WebPages.resources.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\obj\Debug\apiRESTCenso.csproj.AssemblyReference.cache
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\obj\Debug\apiRESTCenso.csproj.CoreCompileInputs.cache
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\obj\Debug\apiRESTCenso.dll
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\obj\Debug\apiRESTCenso.pdb
+E:\DECIMO SEMESTRE\FULL STACK\fullstack\fullstack\apiRESTCenso4\apiRESTCenso\apiRESTCenso\obj\Debug\apiRESTC.5CB3183E.Up2Date
